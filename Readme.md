@@ -1,5 +1,8 @@
 # Beyond Relational with Entity Framework
 
+Repository with demo project: https://github.com/Giorgi/KCDC-Workshop
+
+
 This repository contains information about `Beyond Relational with Entity Framework` workshop requirements.
 
 What you will need:
